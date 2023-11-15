@@ -1,0 +1,94 @@
+{
+    "result": [
+            {
+            "no": "01",
+            "name": "KKN di Desa Penari",
+            "Penonton": "10.061.033",
+            "Produksi": "MD Pictures, Pichouse Films",
+            "Tahun": "2022",
+            "Sutradara": "Awi Suryadi",
+            "Poster": "https://i.postimg.cc/9RYFWZch/kkn.jpg"
+        },
+        {
+            "no": "02",
+            "name": "Warkop DKI Reborn: Jangkrik Boss! Part 1",
+            "Penonton": "6.858.616",
+            "Produksi": "Falcon Pictures",
+            "Tahun": "2016",
+            "Sutradara": "Anggy Umbara",
+            "Poster": "https://i.postimg.cc/Wts15W7b/warkopdki.jpg"
+        },
+        {
+            "no": "03",
+            "name": "Pengabdi Setan 2: Communion",
+            "Penonton": "6.391.982",
+            "Produksi": "Rapi Films, Sky Media, Brown Entertainment, Legacy Pictures, Come and See Pictures",
+            "Tahun": "2022",
+            "Sutradara": "Joko Anwar",
+            "Poster": "https://i.postimg.cc/21g5TC0P/Pengabdi-Setan-2.jpg"
+        },
+        {
+            "no": "04",
+            "name": "Dilan 1990",
+            "Penonton": "6.315.664",
+            "Produksi": "Max Pictures",
+            "Tahun": "2018",
+            "Sutradara": "Fajar Bustomi, Pidi Baiq",
+            "Poster": "https://i.postimg.cc/F7s1HWfn/dilan.jpg"
+        },
+        {
+            "no": "05",
+            "name": "Miracle in Cell No. 7",
+            "Penonton": "5.860.917",
+            "Produksi": "Falcon Pictures",
+            "Tahun": "2022",
+            "Sutradara": "Hanung Bramantyo",
+            "Poster": "https://i.postimg.cc/rzgF31hG/miracle-in-cell.jpg"
+        },
+        {
+            "no": "06",
+            "name": "Dilan 1991",
+            "Penonton": "5.253.411",
+            "Produksi": "Max Pictures",
+            "Tahun": "2019",
+            "Sutradara": "Fajar Bustomi, Pidi Baiq",
+            "Poster": "https://i.postimg.cc/YL22j0Sm/dilan1991.jpg"
+        },
+        {
+            "no": "07",
+            "name": "Sewu Dino",
+            "Penonton": "4.863.533",
+            "Produksi": "MD Pictures",
+            "Tahun": "2023",
+            "Sutradara": "Kimo Stamboel",
+            "Poster": "https://i.postimg.cc/NKKM1Kk6/download.jpg"
+        },
+        {
+            "no": "08",
+            "name": "Laskar Pelangi",
+            "Penonton": "4.719.453",
+            "Produksi": "Miles Films, Mizan Productions, SinemArt Pictures",
+            "Tahun": "2008",
+            "Sutradara": "Riri Riza",
+            "Poster": "https://i.postimg.cc/zbrGZ0Z7/laskerpelangi.jpg"
+        },
+        {
+            "no": "09",
+            "name": "Habibie & Ainun",
+            "Penonton": "4.601.249",
+            "Produksi": "MD Pictures",
+            "Tahun": "2012",
+            "Sutradara": "Faozan Rizal",
+            "Poster": "https://i.postimg.cc/w7fMyXLx/habibie.jpg"
+        },
+        {
+            "no": "10",
+            "name": "Pengabdi Setan",
+            "Penonton": "4.206.103",
+            "Produksi": "Rapi Films",
+            "Tahun": "2017",
+            "Sutradara": "Joko Anwar",
+            "Poster": "https://i.postimg.cc/p98L637y/Pengabdi-Setan-poster.jpg"
+        }
+    ]
+}
