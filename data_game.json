@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": 1,
+      "name": "Grand Theft Auto V",
+      "release_date": "2013-09-17",
+      "genre": "Action-adventure",
+      "platform": "PS, Xbox, Windows",
+      "publisher": "Rockstar Game",
+      "poster": "https://i.postimg.cc/5jWV46gn/Grand-Theft-Auto-V.png"
+    },
+    {
+      "no": 2,
+      "name": "Elden Ring",
+      "release_date": "2022-02-25",
+      "genre": "Action role-playing",
+      "platform": "PS, Xbox, Windows",
+      "publisher": "Bandai Namco",
+      "poster": "https://i.postimg.cc/7YzHFy9K/elden-ring.jpg"
+    },
+    {
+      "no": 3,
+      "name": "It Takes Two",
+      "release_date": "2022-11-04",
+      "genre": "Action-adventure, platform",
+      "platform": "PS, Xbox, Windows, Nintendo Switch",
+      "publisher": "Arsenal",
+      "poster": "https://i.postimg.cc/pmrNG8VX/it-take-two.jpg"
+    },
+    {
+      "no": 4,
+      "name": "A Plague Tale: Requiem",
+      "release_date": "2022-09-18",
+      "genre": "Action-adventure, stealth",
+      "platform": "PS, Xbox, Windows, Nintendo Switch",
+      "publisher": "Focus Entertainment",
+      "poster": "https://i.postimg.cc/9fmcwwhk/plague.jpg"
+    },
+    {
+      "no": 5,
+      "name": "God of War Ragnarök",
+      "release_date": "2022-11-09",
+      "genre": "Action-adventure, hack and slash",
+      "platform": "PS",
+      "publisher": "Sony Interactive Entertainment",
+      "poster": "https://i.postimg.cc/3xH87bbY/gowr.jpg"
+    },
+    {
+      "no": 6,
+      "name": "The Last of Us Part II",
+      "release_date": "2020-06-19",
+      "genre": "Action-adventure",
+      "platform": "PS",
+      "publisher": "Sony Interactive Entertainment",
+      "poster": "https://i.postimg.cc/nL3p4VVh/last-of-us.jpg"
+    },
+    {
+      "no": 7,
+      "name": "Sekiro: Shadows Die Twice",
+      "release_date": "2019-10-28",
+      "genre": "Action-adventure",
+      "platform": "PS, Xbox, Windows, Stadia",
+      "publisher": "Activision",
+      "poster": "https://i.postimg.cc/bJMP56tX/sekiro.jpg"
+    },
+    {
+      "no": 8,
+      "name": "Death Stranding",
+      "release_date": "2019-11-08",
+      "genre": "Action",
+      "platform": "PS, Xbox, Windows, macOS, iOS",
+      "publisher": "Sony Interactive Entertainment",
+      "poster": "https://i.postimg.cc/h464ZGLJ/death-stranding.jpg"
+    },
+    {
+      "no": 9,
+      "name": "Assassin's Creed Odyssey",
+      "release_date": "2018-10-05",
+      "genre": "Action role-playing",
+      "platform": "PS, Xbox, Windows, Stadia, Nintedo Switch",
+      "publisher": "Ubisoft",
+      "poster": "https://i.postimg.cc/x8w0XsfG/ac-odyssey.jpg"
+    },
+    {
+      "no": 10,
+      "name": "Red Dead Redemption 2",
+      "release_date": "2018-10-26",
+      "genre": "Action-adventure",
+      "platform": "PS, Xbox, Windows, Stadia",
+      "publisher": "Rockstar Games",
+      "poster": "https://i.postimg.cc/PxNh2GNz/rdr2.jpg"
+    }
+  ]
+}
