@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Beras Sumo",
+      "price": 85000,
+      "image": "https://down-id.img.susercontent.com/file/c65901b626c802a0f2b2528abe13fd66"
+    },
+    {
+      "id": 2,
+      "name": "Dairy Milk (62gr)",
+      "price": 17500,
+      "image": "https://images.tokopedia.net/img/cache/700/product-1/2019/9/10/75588652/75588652_91c00df3-0513-4cd9-9966-77348c3057fc_700_700"
+    },
+    {
+      "id": 3,
+      "name": "Susu Uht Full Cream 1 liter",
+      "price": 22000,
+      "image": "https://images.tokopedia.net/img/cache/500-square/product-1/2020/5/14/3045749/3045749_54dc2ca2-f39d-49d8-95fc-aee74c6b2684_554_554.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Gula Pasir Gulaku Premium 1 kg",
+      "price": 16000,
+      "image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/11/12/2d0b076a-2ab6-4c7f-928e-fa35a2fbc128.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kraft Keju Cheddar 175gr",
+      "price": 29000,
+      "image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/9/19/5c09f2a1-cff4-4168-906c-50d9f3db843c.jpg"
+    }
+  ]
+}
